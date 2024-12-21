@@ -1,2 +1,2 @@
 # Cinematography
-Property
+Properties
