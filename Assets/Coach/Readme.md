@@ -1,0 +1,1 @@
+Cuma gambar pelatih
