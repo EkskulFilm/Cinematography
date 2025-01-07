@@ -2,27 +2,42 @@
   "2017": [
     {
       "url": "https://raw.githubusercontent.com/EkskulFilm/Cinematography/refs/heads/v2-VortexSquire/Assets/Documatography/ReveCup2017/revecup1.jpg",
-      "alt": "Reve Cup 2017 - Gambar 1"
+      "alt": "Reve Cup 2017 - Gambar 1",
+      "caption": "Sang Pemenang!",
+      "kategori": "Turnamen",
+      "tag": ["olahraga", "sepakbola", "revecup"]
     },
     {
       "url": "https://raw.githubusercontent.com/EkskulFilm/Cinematography/refs/heads/v2-VortexSquire/Assets/Documatography/ReveCup2017/revecup2.jpg",
-      "alt": "Reve Cup 2017 - Gambar 2"
+      "alt": "Reve Cup 2017 - Gambar 2",
+      "caption": "Penyerahan piala kepada pemenang.",
+      "kategori": "Penghargaan",
+      "tag": ["olahraga", "penghargaan", "pemenang"]
     },
     {
       "url": "https://raw.githubusercontent.com/EkskulFilm/Cinematography/refs/heads/v2-VortexSquire/Assets/Documatography/ReveCup2017/revecup3.jpg",
-      "alt": "Reve Cup 2017 - Gambar 3"
+      "alt": "Reve Cup 2017 - Gambar 3",
+      "caption": "Para Pemenang!",
+      "kategori": "Turnamen",
+      "tag": ["olahraga", "supporter", "revecup"]
     }
   ],
   "2025": [
     {
       "url": "https://raw.githubusercontent.com/EkskulFilm/Cinematography/refs/heads/v2-VortexSquire/Assets/",
-      "alt": "Reve Cup 2025 - Gambar 1"
+      "alt": "Reve Cup 2025 - Gambar 1",
+      "caption": "Momen dari Reve Cup 2025.",
+      "kategori": "Turnamen",
+      "tag": ["olahraga", "sepakbola", "revecup"]
     }
   ],
   "2026": [
     {
       "url": "https://raw.githubusercontent.com/EkskulFilm/Cinematography/refs/heads/v2-VortexSquire/Assets/",
-      "alt": "Reve Cup 2026 - Gambar 1"
+      "alt": "Reve Cup 2026 - Gambar 1",
+      "caption": "Turnamen internasional tahun 2026.",
+      "kategori": "Turnamen",
+      "tag": ["internasional", "sepakbola", "turnamen"]
     }
   ]
 }
